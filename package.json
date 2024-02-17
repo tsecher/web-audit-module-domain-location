@@ -1,0 +1,10 @@
+{
+  "name": "web-audit-module-domain-location",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "web_audit": "^5.0.0-rc3"
+  },
+  "version": "0.0.0"
+}
